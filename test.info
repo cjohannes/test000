@@ -1,3 +1,5 @@
+// neuer Versuch
+
 name = Test
 core = 7.x
 package = Features
@@ -15,3 +17,4 @@ features[field_instance][] = node-article-field_image
 features[field_instance][] = node-article-field_tags
 features[node][] = article
 features[taxonomy][] = tags
+
