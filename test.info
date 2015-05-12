@@ -17,3 +17,4 @@ features[node][] = article
 features[taxonomy][] = tags
 
 // was auch immer
+// und noch eine Zeile Text
